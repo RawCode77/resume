@@ -152,7 +152,7 @@ span {
   transition: 0.3s background-color, 0.3s color;
 }
 .button-download::before {
-  content: url(16_lesson/img/icons8-download-26.png);
+  content: url(icons8-download-26.png);
   width: 24px;
   height: 24px;
   margin-right: 8px;
