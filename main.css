@@ -98,7 +98,7 @@ span {
 
 #showcase {
   min-height: 400px;
-  background: url("img/Programmer.jpg") no-repeat;
+  background: url("Programmer.jpg") no-repeat;
   margin-top: 0;
 
   background-size: cover;
